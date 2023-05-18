@@ -9,6 +9,6 @@ Space complexity refers to the memory space used by an algorithm, including inpu
 To calculate time complexity, count the number of operations an algorithm performs.
 For space complexity, determine the memory space needed for variables and data structures.
 
-![Alt text](time-space-complexity/2ceb8fe2-16c9-4d45-918e-4cc3588310bb.jpeg?raw=true "Title")
+![Chart Image](time-space-complexity/asset1.jpeg?raw=true "Time and Space Complexity chart")
 
 In competitive programming, understanding time and space complexity is essential to avoid exceeding limits. By developing algorithms with lower complexity, we can efficiently solve problems while using fewer resources.
